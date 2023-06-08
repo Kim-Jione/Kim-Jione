@@ -27,7 +27,8 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kim-Jione&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br>
-
+<div align="center">
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kim-Jione&layout=compact&theme=dark)</div>
 <div align="center"> 
 
 <br>
