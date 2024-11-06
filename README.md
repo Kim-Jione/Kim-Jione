@@ -24,7 +24,6 @@
 
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kim-Jione&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br>
 <div align="center"> 
