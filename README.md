@@ -5,7 +5,6 @@
     <div style="text-align: left;">
         <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Connect with me: </h2>
     <div style="text-align: left; font-size: 10px; border-bottom: 1px solid #d8dee4; color: #282d33;" > 
-        <li>노션 : <a href="https://hghg1036.notion.site/">https://hghg1036.notion.site/</a></li>
         <li>네이버 블로그 : <a href="https://blog.naver.com/hghg1036">https://blog.naver.com/hghg1036</a></li>
         <li>이메일 : <a href="hghg1036@naver.com">hghg1036@naver.com</a></li>
         <br> 
