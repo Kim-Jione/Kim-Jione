@@ -7,7 +7,6 @@
     <div style="text-align: left; font-size: 10px; border-bottom: 1px solid #d8dee4; color: #282d33;" > 
         <li>노션 : <a href="https://hghg1036.notion.site/">https://hghg1036.notion.site/</a></li>
         <li>네이버 블로그 : <a href="https://blog.naver.com/hghg1036">https://blog.naver.com/hghg1036</a></li>
-        <li>유튜브 : <a href="https://www.youtube.com/@jwk9349">https://www.youtube.com/@jwk9349</a></li>
         <li>이메일 : <a href="hghg1036@naver.com">hghg1036@naver.com</a></li>
         <br> 
     <div style="text-align: left;"> <a href="https://hits.seeyoufarm.com"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAgile%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
